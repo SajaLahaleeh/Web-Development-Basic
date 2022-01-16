@@ -1,7 +1,8 @@
 # Curriculum
-### Welcome to the curriculum for Web Development Basic course.:male-technologist: 
 
+### Welcome to the curriculum for Web Development Basic course :woman_technologist:
 #### The program is a 10-Day, (3 hours per day) course that provides a comprehensive introduction to web development basics.
+
 
 * **Day1** -Introduction to web development.
 * **Day2** -Git/GitHub workflow.
