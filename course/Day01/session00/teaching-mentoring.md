@@ -8,7 +8,7 @@ A teacher is someone who provides knowledge, lessons, rules and information. Tea
 
 ## ✧ MENTORING IS ABOUT EXPERIENCE
 
-A mentor is someone who provides those life lessons from experience, guides you with each step and sees you through no matter what. For example, my husband was a pilot.
+A mentor is someone who provides those life lessons from experience, guides you with each step and sees you through no matter what.
 
 **TEACHING FOCUSES ON THE HOW, MENTORING FOCUSES ON THE WHY.**
 
@@ -20,9 +20,10 @@ A teacher’s first priority may be instruction—but they can be creative and i
 
 And while a mentor’s priority is on personal development, the mentee must possess “know-how” skills. And so mentoring will always have an instructional component.
 
-**```So as a student, do you need a teacher or a mentor? The answer is…you need both.```**
+**`So as a student, do you need a teacher or a mentor? The answer is…you need both.`**
 
 ## 3 differences between a teacher and mentor.
+
 **1. Mentorship is based on building a relationship between mentor and mentee.**
 
 **2. A mentor guides you. A teacher teaches.**
