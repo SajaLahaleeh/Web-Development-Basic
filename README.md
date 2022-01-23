@@ -1,12 +1,8 @@
-# Welcome to the Web Development Basics Course
+# Welcome to the Web Development Basics Course :woman_technologist:
 
 ---
 
 ## Curriculum
-
----
-
-### Welcome to the curriculum for Web Development Basic course :woman_technologist:
 
 ---
 
