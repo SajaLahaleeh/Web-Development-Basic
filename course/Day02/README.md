@@ -2,14 +2,14 @@
 
 ## Session 02
 
-#### Introduction to HTML
+##### Introduction to HTML
 
-#### HTML5 &Semantic Elements
+##### HTML5 &Semantic Elements
 
 ## Lunch Break
 
 ## Session 03
 
-#### Form and input
+##### Form and input
 
-#### VS code setup & discussion
+##### VS code setup & discussion
