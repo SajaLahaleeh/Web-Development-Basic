@@ -2,16 +2,16 @@
 
 ## Session 00
 
-#### Welcoming and ICE Breaking
+##### Welcoming and ICE Breaking
 
-#### Course Rules & Teaching vs. Mentoring
+##### Course Rules & Teaching vs. Mentoring
 
 ## Lunch Break
 
 ## Session 01
 
-#### Introduction to programming
+##### Introduction to programming
 
-#### Introduction to web development.
+##### Introduction to web development.
 
-#### Web development tools.
+##### Web development tools.
